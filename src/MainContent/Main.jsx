@@ -1,3 +1,4 @@
+import Footer from "../Footer/Footer";
 import "./Main.css";
 import Details from "./MainSectionComponents/Details";
 export default function Main() {
@@ -122,12 +123,16 @@ export default function Main() {
 
 
 
-</div>
+</div>  
+
+
+<Footer/>
 
          
 
 
-          </div>
+          </div>    
+
 
 
 
