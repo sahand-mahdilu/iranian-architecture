@@ -1,4 +1,5 @@
 import "./Main.css";
+import Details from "./MainSectionComponents/Details";
 export default function Main() {
   return (
     <div className="main_container container">
@@ -64,6 +65,13 @@ export default function Main() {
             </div>
           </div>
         </div>
+      </div>
+
+      <div className="ditailes">
+
+
+            <Details/>
+         
       </div>
     </div>
   );
