@@ -3,14 +3,7 @@ export default function Header() {
   return (
     <div className="container header_container">
 
-        <div>
-
-               
-
-
-        </div>
-
-    
+    <p>NADER IRANIAN ARCHITECTURE COMPANY</p>
 
     </div>
   )
