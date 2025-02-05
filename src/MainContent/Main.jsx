@@ -1,6 +1,6 @@
-
+import "./Main.css"
 export default function Main() {
   return (
-    <div>Main</div>
+    <div className="main_container container">Main</div>
   )
 }
