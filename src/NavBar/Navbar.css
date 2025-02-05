@@ -4,6 +4,13 @@
     box-sizing: border-box;
 
 }
+.nav_Container{
+    display: flex;
+    gap: 50px;
+padding-top: 4px;
+padding-bottom: 10px;
+
+}
 
 .nav{
     display: flex;
@@ -19,6 +26,8 @@
 }
 li{
     padding: 6px;
+    padding-left: 7px;
+    padding-right: 7px;
     cursor: pointer;
     display: flex;
     align-items: center ;

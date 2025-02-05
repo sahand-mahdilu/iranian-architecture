@@ -1,7 +1,7 @@
 import "./NavBar.css";
 export default function NavBar() {
   return (
-    <div className="nav_Container">
+    <div className="nav_Container container">
 
         
         <img src="https://ghaleblake.ir/wp_themes/nader/wp-content/uploads/elementor/thumbs/logo-r0rci8rpdh5zf5lc3kzt5fl93a65yis99cp1ga30n4.png" title="logo.png" alt="logo.png" loading="lazy"></img>
