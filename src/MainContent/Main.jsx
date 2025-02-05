@@ -126,7 +126,6 @@ export default function Main() {
 </div>  
 
 
-<Footer/>
 
          
 
