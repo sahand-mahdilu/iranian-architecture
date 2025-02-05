@@ -80,3 +80,79 @@
     margin-top: 100px;
 
 }
+
+.tower_design{
+
+    margin-top: 150px;
+    display: flex;
+    gap: 50px;
+    background-color: black;
+}
+.towe_image{
+    width: 400px;
+    border-radius: 30px;
+}
+
+.tower_image_container{
+
+    padding: 100px;
+}
+
+
+.design_container{
+    position: sticky;
+    top: 0px;
+    height:  max-content;
+
+    margin-top: 100px;
+    padding-right: 20px;
+
+
+}
+
+
+.Unique_design{
+    font-size: 60px;
+    color: burlywood;
+    font-weight: 700;
+    
+}
+.Unique_description{
+    font-size: 24px;
+    margin-top: 30px;
+    color: white;
+
+}
+
+.second_tower_design{
+
+    margin-top: 150px;
+    display: flex;
+    gap: 50px;
+
+}
+
+.Second_design_container {
+    padding-left: 20px;
+    position: sticky;
+    top: 0px;
+    height:  max-content;
+
+    margin-top: 100px;
+
+}
+
+
+.Second_Unique_design{
+    font-size: 60px;
+    color: burlywood;
+    font-weight: 700;
+
+}
+.Second_Unique_description{
+    font-size: 24px;
+    margin-top: 30px;
+    
+
+}
+

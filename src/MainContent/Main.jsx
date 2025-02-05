@@ -2,6 +2,7 @@ import "./Main.css";
 import Details from "./MainSectionComponents/Details";
 export default function Main() {
   return (
+    <div>
     <div className="main_container container">
       <div className="main_wrapper">
         <div className="img_comtainer">
@@ -71,8 +72,64 @@ export default function Main() {
 
 
             <Details/>
+            <Details/>
+            <Details/>
          
       </div>
+
+
     </div>
+          <div className="tower_design">
+
+          <div className="tower_image_container">
+          <img className="towe_image" src="https://ghaleblake.ir/wp_themes/nader/wp-content/uploads/2022/08/esteban-chinchilla-CAv9fX_pJfc-unsplash-scaled-1-683x1024.jpg
+            " alt="" />
+          </div>
+    
+            <div className="design_container container">
+            <p className="Unique_design" >Unique commercial tower design</p>
+            <p className="Unique_description"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! Porro.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! PorroLorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! PorroLorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! PorroLorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! Porro</p>
+    
+    
+            </div>
+    
+    
+    
+    
+    
+          </div>
+
+
+            {/* sad */}
+    
+            <div className=" second_tower_design">
+
+
+
+  <div className="Second_design_container container">
+  <p className="Second_Unique_design" >Unique commercial tower design</p>
+  <p className="Second_Unique_description"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! Porro.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! PorroLorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! PorroLorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! PorroLorem ipsum dolor sit, amet consectetur adipisicing elit. Sit ut voluptates expedita nesciunt minus harum corporis molestias exercitationem ea! Porro</p>
+
+
+  </div>
+
+  <div className="tower_image_container">
+<img className="towe_image" src="https://ghaleblake.ir/wp_themes/nader/wp-content/uploads/2022/08/esteban-chinchilla-CAv9fX_pJfc-unsplash-scaled-1-683x1024.jpg
+  " alt="" />
+</div>
+
+
+
+
+
+</div>
+
+         
+
+
+          </div>
+
+
+
   );
 }
