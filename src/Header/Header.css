@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0.5rem;
+   }
+
+
+    .header_container {
+        height: 800px;
+        background: 
+          linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+          url(../../public/img/shiraz-vakil-mosque.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
