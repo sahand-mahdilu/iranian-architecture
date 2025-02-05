@@ -1,5 +1,6 @@
 import NavBar from "./NavBar/NavBar"
 import "./Header.css"
+import Info from "./HeaderComponent/Info"
 export default function Header() {
   return (
 
@@ -22,6 +23,10 @@ export default function Header() {
             <p className="years">10+</p>
             <span className="tears_text"> YEARS OF EXPERIENCE</span>
         </div>
+        <Info/>
+        <Info/>
+        <Info/>
+        <Info/>
         
     </div>
 

@@ -1,0 +1,21 @@
+
+ 
+ .info_container{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+
+ }
+
+.ICON{
+    width: 70px;
+    
+}
+.customers{
+    color: burlywood;
+    font-size: 40px;
+}
+.customers_text{
+    color: burlywood;
+}
